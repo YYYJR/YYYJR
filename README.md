@@ -1,5 +1,4 @@
-# Academic Pages
-**About me**
+# About me
 
 Hi,This is **Junru Yang(杨君茹)**.
 
